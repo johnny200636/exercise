@@ -16,4 +16,3 @@ for x in range(2,input_number+1):
         print x,
 print ('')
 del List_prime_number[:]
-
