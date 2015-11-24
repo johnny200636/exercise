@@ -2,7 +2,7 @@ import math
 
 while True:
     try:
-        input_number =  eval(input('Please enter a integer : '))
+        input_number =  int(input('Please enter a integer : '))
         int(str(input_number))
         break
     except:
